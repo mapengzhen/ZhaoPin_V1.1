@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <result>1</result>
+  <uticket>mF1oxG/wbqBiff9B1orPbe6fCPMZCySNTpkLLXbvLfy+k8xzMngO9w==</uticket>
+  <resumelist />
+  <no_read_hr_email_count>0</no_read_hr_email_count>
+  <apply_count>0</apply_count>
+  <fav_count>0</fav_count>
+  <job_searcher_count>3</job_searcher_count>
+</root>
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <result>1</result>
+  <uticket>qsy8Kz4J81HZEMxIgCTAPGMv/iKw4J1dTpkLLXbvLfy+k8xzMngO9w==</uticket>
+  <resumelist>
+    <resume>
+      <resume_id>184408131</resume_id>
+      <resume_number>JM090952757R90250001000</resume_number>
+      <version_number>1</version_number>
+      <resume_name><![CDATA[main]]></resume_name>
+      <isdefaultflag>1</isdefaultflag>
+      <show_count>0</show_count>
+    </resume>
+    <resume>
+      <resume_id>184359542</resume_id>
+      <resume_number>JM090952757R90250000000</resume_number>
+      <version_number>1</version_number>
+      <resume_name><![CDATA[其他 北京]]></resume_name>
+      <isdefaultflag />
+      <show_count>1</show_count>
+    </resume>
+  </resumelist>
+  <no_read_hr_email_count>0</no_read_hr_email_count>
+  <apply_count>5</apply_count>
+  <fav_count>0</fav_count>
+  <job_searcher_count>0</job_searcher_count>
+</root>
